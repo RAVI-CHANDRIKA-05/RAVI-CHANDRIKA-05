@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=your-github-RAVI-CHANDRIKA-05&color=green)
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-chandrika/) [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/RAVI-CHANDRIKA-05)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-chandrika/)
 
 
 ## “One learns from books and example only that certain things can be done. Actual learning requires that you do those things.– Frank Herbert” 
@@ -32,7 +32,7 @@ I believe in learning and not giving up easily. Playing with data and analysing 
 ## I am comfortable with::rainbow:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg"></code>
-<code><img height="50" src="https://allvectorlogo.com/img/2017/02/microsoft-sql-server-logo.png"></code>
+<code><img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
