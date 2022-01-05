@@ -45,7 +45,7 @@ I believe in learning and not giving up easily. Playing with data and analysing 
 - 🤔 I’m looking for a job.
 - 🔭 I’m currently working on building profile and learninng
 - 🌱 I’m currently learning Python, Taleau, SQL, Big-Data
-- 📫 How to reach me: [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ravi-chandrika/)[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:chandz.5990@gmail.com)
+- 📫 How to reach me: [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" height="20">](https://www.linkedin.com/in/ravi-chandrika/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="20">](mailto:chandz.5990@gmail.com)
 
 ## Github Stats
 ![Chandrika's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAVI-CHANDRIKA-05&show_icons=true&theme=radical)
