@@ -36,7 +36,6 @@ I believe in learning and not giving up easily. Playing with data and analysing 
 <code><img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 
 - Languages - Python3, R, SQL.
 - Tools used - Tableau, Jupyter Notebook, SQL Server,  Office365
