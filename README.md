@@ -43,7 +43,7 @@ I believe in learning and not giving up easily. Playing with data and analysing 
 
 ## What am I doing now?::rocket:
 - 🤔 I’m looking for a job.
-- 🔭 I’m currently working on building profile and learninng
+- 🔭 I’m currently working on learning and experimenting with the languages
 - 🌱 I’m currently learning Python, Taleau, SQL, Big-Data
 - 📫 How to reach me: [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" height="20">](https://www.linkedin.com/in/ravi-chandrika/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="20">](mailto:chandz.5990@gmail.com)
 
