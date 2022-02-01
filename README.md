@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-chandrika/)
 
-## ⚡ [Link to My Portfolio Website](https://ravi-chandrika-05.github.io/)
+## 🌐 [Link to My Portfolio Website](https://ravi-chandrika-05.github.io/)
 
 ## “One learns from books and example only that certain things can be done. Actual learning requires that you do those things.– Frank Herbert” 
 
